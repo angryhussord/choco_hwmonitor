@@ -4,21 +4,24 @@
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>hwmonitor</id>
-    <title>HW Monitor</title>
-    <version>1.26</version>
+    <title>HWMonitor</title>
+    <version>1.28</version>
     <authors>CPUID</authors>
     <owners>angryhussord</owners>
     <summary>HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.</summary>
-    <description>HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+    <description>
+HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+
 The program handles the most common sensor chips, like ITE® IT87 series, most Winbond® ICs, and others. In addition, it can read modern CPUs on-die core thermal sensors, as well has hard drives temperature via S.M.A.R.T, and video card GPU temperature.
 
-Special hardware monitors such as abit® uGuru and Gigabyte® ODIN™ power supplies serie are supported too.</description>
+Special hardware monitors such as abit® uGuru and Gigabyte® ODIN™ power supplies serie are supported too.
+</description>
     <projectUrl>http://www.cpuid.com/softwares/hwmonitor.html</projectUrl>
     <tags>hardware monitoring temperature sensor fan-speed heath thermal hard-drive smart gpu temps</tags>
     <copyright></copyright>
     <licenseUrl>http://www.cpuid.com/softwares/hwmonitor-pro/eula.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/__NAME__.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/angryhussord/choco_hwmonitor/master/hwmonitor_icon.PNG</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
