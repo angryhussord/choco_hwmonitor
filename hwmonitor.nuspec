@@ -17,8 +17,10 @@ The program handles the most common sensor chips, like ITE® IT87 series, most W
 Special hardware monitors such as abit® uGuru and Gigabyte® ODIN™ power supplies serie are supported too.
 </description>
     <projectUrl>http://www.cpuid.com/softwares/hwmonitor.html</projectUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_hwmonitor</packageSourceUrl>
+    <mailingListUrl>http://www.cpuid.com/contact.html</mailingListUrl>
     <tags>hardware monitoring temperature sensor fan-speed heath thermal hard-drive smart gpu temps</tags>
-    <copyright></copyright>
+    <copyright>©2001-2016</copyright>
     <licenseUrl>http://www.cpuid.com/softwares/hwmonitor-pro/eula.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/angryhussord/choco_hwmonitor/master/hwmonitor_icon.PNG</iconUrl>
