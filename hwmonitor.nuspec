@@ -7,7 +7,7 @@
     <title>HWMonitor</title>
     <version>1.40</version>
     <authors>CPUID</authors>
-    <owners>angryhussord</owners>
+    <owners>ionred</owners>
     <summary>HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.</summary>
     <description>
 HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
@@ -17,13 +17,13 @@ The program handles the most common sensor chips, like ITE® IT87 series, most W
 Special hardware monitors such as abit® uGuru and Gigabyte® ODIN™ power supplies serie are supported too.
 </description>
     <projectUrl>http://www.cpuid.com/softwares/hwmonitor.html</projectUrl>
-    <packageSourceUrl>https://github.com/angryhussord/choco_hwmonitor</packageSourceUrl>
+    <packageSourceUrl>https://github.com/ionred/choco_hwmonitor</packageSourceUrl>
     <mailingListUrl>http://www.cpuid.com/contact.html</mailingListUrl>
     <tags>admin hardware monitoring temperature sensor fan-speed heath thermal hard-drive smart gpu temps</tags>
     <copyright>©2001-2016</copyright>
     <licenseUrl>http://www.cpuid.com/softwares/hwmonitor-pro/eula.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/angryhussord/choco_hwmonitor/master/hwmonitor_icon.PNG</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/ionred/choco_hwmonitor/master/hwmonitor_icon.PNG</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
